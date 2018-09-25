@@ -1,0 +1,19 @@
+{
+  "name": "@dmail/project-prettier-config",
+  "version": "1.0.0",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmail/project-prettier-config"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "1.9.1"
+  }
+}
