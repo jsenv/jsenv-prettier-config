@@ -1,10 +1,10 @@
 {
-  "name": "@dmail/project-prettier-config",
+  "name": "@jsenv/prettier-config",
   "version": "1.0.0",
   "licence": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmail/project-prettier-config"
+    "url": "https://github.com/jsenv/jsenv-prettier-config"
   },
   "publishConfig": {
     "access": "public"
