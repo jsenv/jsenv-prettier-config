@@ -7,13 +7,14 @@
     "url": "https://github.com/jsenv/jsenv-prettier-config"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "main": "index.js",
-  "files": ["index.js"],
+  "files": ["/index.js"],
   "scripts": {},
   "dependencies": {},
   "devDependencies": {
-    "prettier": "1.9.1"
+    "prettier": "1.18.2"
   }
 }
