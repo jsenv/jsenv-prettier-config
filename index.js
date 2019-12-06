@@ -4,6 +4,7 @@ module.exports = {
   tabWidth: 2,
   useTabs: false,
   trailingComma: "all",
+  quoteProps: "consistent",
   // arrow function with a single parameter is conceptually great
   // BUT
   // param destructuring requires parenthesis
