@@ -1,6 +1,7 @@
 {
   "name": "@jsenv/prettier-config",
   "version": "1.2.0",
+  "description": "prettier config for jsenv codebase.",
   "licence": "MIT",
   "repository": {
     "type": "git",
